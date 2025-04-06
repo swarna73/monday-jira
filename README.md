@@ -44,7 +44,7 @@ const JIRA_PROJECT_KEY = process.env.JIRA_PROJECT_KEY;
 
 ✅ How to Run
 node monday.js
-	•	This will fetch issues from Linear and create them in Jira along with comments.
+	•	This will fetch issues from Monday and create them in Jira along with comments.
 
 Security
 	•	Tokens and secrets are not committed to GitHub.
