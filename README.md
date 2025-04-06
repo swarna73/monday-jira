@@ -6,7 +6,7 @@ This is a Node.js script that fetches issues (including comments and author deta
 
 ## Features
 
-- Fetch issues with status "In Progress" from Linear (You can edit the status and move as you need)
+- Fetch issues with status "In Progress" from Monday (You can edit the status and move as you need)
 - Create corresponding Jira issues with proper ADF formatting
 - Error handling and debug-friendly logging
 
